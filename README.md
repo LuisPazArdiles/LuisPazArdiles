@@ -5,7 +5,7 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> About Me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 I am a passionate Computer Science and Software Engineering student specializing in mobile app development and web technologies. I am proficient in languages like JavaScript, Python, Java, and C++. I enjoy building innovative and creative tech solutions while constantly learning new skills.
 
